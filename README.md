@@ -1,4 +1,4 @@
-# Single Page Application in React (react v18.0+)
+# Single Page Application using React (react v18.0+)
 
 This project explores the foundation of building react projects using some of the hooks(useState, useEffect)
 
