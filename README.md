@@ -14,8 +14,20 @@ This project explores the foundation of building react projects using some of th
 ## functionality in this simple app
 
 - ability to fetch data from api and display all data without error
+  ![image info](./assets/screenshot1.png)
 - search function
+  ![image info](./assets/screenshot2.png)
 
 ## style
 
 - react boostrap
+
+## how to run
+
+clone the repo and install dependencies
+
+`npm install`
+
+to run in your local browser
+
+`npm run start`
